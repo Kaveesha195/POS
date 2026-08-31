@@ -1,0 +1,7 @@
+{
+  "name": "GK POS",
+  "description": "A comprehensive Point of Sale retail billing and inventory management system with sales, stock, customers, expenses, receipts, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

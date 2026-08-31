@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- POS Terminal Screen & Base -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M34,26h40c3.3,0 6,2.7 6,6v32c0,3.3 -2.7,6 -6,6H34c-3.3,0 -6,-2.7 -6,-6V32C28,28.7 30.7,26 34,26z" />
+    <path
+        android:fillColor="#0284C7"
+        android:pathData="M32,30h44c1.1,0 2,0.9 2,2v22c0,1.1 -0.9,2 -2,2H32c-1.1,0 -2,-0.9 -2,-2V32C30,30.9 30.9,30 32,30z" />
+    <!-- Receipt Paper coming out -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M40,16h28v10h-28z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M44,20h20v2h-20z M44,23h12v2h-12z" />
+    <!-- Screen content: GK Text & Rs Badge -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M38,36h32c2.2,0 4,1.8 4,4v10c0,2.2 -1.8,4 -4,4H38c-2.2,0 -4,-1.8 -4,-4V40C34,37.8 35.8,36 38,36z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,41h10v2h-10z M42,45h16v2h-16z M42,49h8v2h-8z M62,41h6v10h-6z" />
+    <!-- POS Stand Base -->
+    <path
+        android:fillColor="#94A3B8"
+        android:pathData="M46,70h16v8h-16z" />
+    <path
+        android:fillColor="#CBD5E1"
+        android:pathData="M30,78h48c2.2,0 4,1.8 4,4v2c0,1.1 -0.9,2 -2,2H28c-1.1,0 -2,-0.9 -2,-2v-2C26,79.8 27.8,78 30,78z" />
+    <!-- Keypad Dots -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M36,60h4v3h-4z M44,60h4v3h-4z M52,60h4v3h-4z M60,60h4v3h-4z M68,60h4v3h-4z" />
+</vector>
